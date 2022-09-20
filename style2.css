@@ -28,7 +28,6 @@
     color: transparent;
     font-size: 120px;
     -webkit-text-stroke: 1px rgb(89, 125, 247);
-    background: url(../img/a03.jpg);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: h1 50s linear infinite; 
